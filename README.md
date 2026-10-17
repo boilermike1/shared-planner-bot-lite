@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Planner Bot Lite logo: a smiling robot holding a calendar, with a clock" width="240">
+</p>
+
 # Shared Planner Bot (lite)
 
 A Telegram bot for a household's shared plans: trips, things to do in town, restaurants to try, recipes and a shopping list.
